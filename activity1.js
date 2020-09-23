@@ -1,4 +1,5 @@
-console.log('Vive la DTA !');
+/*
+console.log('Vive les FISE2 !');
 
 let msg = 'Vive le JS !';
 
@@ -10,6 +11,7 @@ for (let iterMsg of arrayMessages) {
 
     console.log(iterMsg);
 }
+*/
 
 /*
 function User(name, age) {
