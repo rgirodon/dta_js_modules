@@ -1,4 +1,4 @@
-let arithmetic = require("./exportCommonJsModule");
+let arithmetic = require("./arithmetics_CommonJsModule");
 
 console.log(arithmetic.add(1, 2));
 
